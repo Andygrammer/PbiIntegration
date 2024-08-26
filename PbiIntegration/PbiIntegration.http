@@ -1,0 +1,6 @@
+@PbiIntegration_HostAddress = http://localhost:5163
+
+GET {{PbiIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
